@@ -105,3 +105,5 @@ class getAuth():
 		}
 		print("At variable: " + str(at_var) + "\n\n\n\n\n")
 		return(at_var, loginHeaders, cookiesLogin)
+
+getAuth.getData();
